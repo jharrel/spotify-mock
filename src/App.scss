@@ -3,5 +3,13 @@ $greyLight: #131313;
 $greyLighter: #282828;
 
 .App {
+  height: calc(100vh - 90px);
+  
 
+}
+
+.outerWrap {
+  background: grey;
+  height: 100vh;
+  min-height: 100%;
 }
